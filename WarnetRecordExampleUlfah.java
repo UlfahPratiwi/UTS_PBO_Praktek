@@ -32,7 +32,7 @@ public class WarnetRecordExampleUlfah {
         System.out.println("Harga per Jam           :"+customer1.getHarga());
         System.out.println("1ama menggunakan Warnet :"+customer1.getLama());
         System.out.println("Besar Tarif             :"+customer1.getTarif());
-         System.out.println("Besar Diskon Penjualan :"+customer1.getDiskon());
+         System.out.println("Besar Diskon           :"+customer1.getDiskon());
         System.out.println("Total Pembayaran        :"+customer1.getTotalBayar());
       
         

@@ -118,7 +118,7 @@ public class WarnetUlfahRecord {
     
     //totalbayar
     public double getTotalBayar(){
-        totalbayar = lama * tarif - diskon;
+        totalbayar = tarif - diskon;
         return totalbayar;
     }
     
